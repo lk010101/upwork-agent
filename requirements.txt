@@ -1,4 +1,4 @@
-python-telegram-bot==20.7
+python-telegram-bot==21.11.1
 python-dotenv==1.0.0
 anthropic==0.23.0
 beautifulsoup4==4.12.3
